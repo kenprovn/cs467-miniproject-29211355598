@@ -1,0 +1,50 @@
+================================================================================
+CS467 MINI-PROJECT MP-C06: THREE REQUIRED TEST CASES OUTPUT
+Student: Nguyễn Minh Khanh | ID: 29211355598 | Section: CS467C (No. 06)
+================================================================================
+
+[TEST CASE 1: STUDENT PROFILE QUERY]
+Input Query: "undergraduate computer science student seeking AI research summer exchange"
+--------------------------------------------------------------------------------
+Rank  | Item ID  | Score   | Country     | Degree        | Grant Name                         
+--------------------------------------------------------------------------------
+1     | SCH_04   | 0.4544  | Singapore   | Undergraduate | Asia-Pacific Summer Research Exchange in Computer Science
+      Matching Salient Keywords: exchange, summer, summer exchange, ai research, undergraduate computer
+2     | SCH_01   | 0.4014  | USA         | Undergraduate | Global AI Undergraduate Summer Research Fellowship
+      Matching Salient Keywords: summer, exchange, summer exchange, ai research, undergraduate
+3     | SCH_40   | 0.3431  | USA         | Undergraduate | Global Undergraduate Summer STEM Exchange Program
+      Matching Salient Keywords: summer, exchange, summer exchange, undergraduate, seeking
+4     | SCH_02   | 0.3082  | Germany     | Undergraduate | DAAD International CS & AI Summer Exchange Grant
+      Matching Salient Keywords: exchange, summer exchange, summer, ai, undergraduate
+5     | SCH_03   | 0.2458  | UK          | Undergraduate | Turing Future Computing & AI Summer Scholar Award
+      Matching Salient Keywords: summer, exchange, undergraduate, summer exchange, ai
+
+[TEST CASE 2: SIMILAR SCHOLARSHIP (ITEM-TO-ITEM)]
+Seed Item: [SCH_01] Global AI Undergraduate Summer Research Fellowship
+Country: USA | Level: Undergraduate
+Focus Tags: AI, computer science, undergraduate, machine learning, summer exchange, research
+--------------------------------------------------------------------------------
+Rank  | Item ID  | Sim Score | Country     | Degree        | Similar Grant Name                 
+--------------------------------------------------------------------------------
+1     | SCH_03   | 0.2671    | UK          | Undergraduate | Turing Future Computing & AI Summer Scholar Award
+      Shared Salient Keywords: machine learning, summer, machine, undergraduate, exchange
+2     | SCH_05   | 0.2641    | Canada      | Undergraduate | Canada AI & Machine Intelligence Undergraduate Research Grant
+      Shared Salient Keywords: undergraduate, summer, learning, machine, intelligence
+3     | SCH_40   | 0.2584    | USA         | Undergraduate | Global Undergraduate Summer STEM Exchange Program
+      Shared Salient Keywords: summer, exchange, undergraduate, summer exchange, undergraduate summer
+4     | SCH_04   | 0.2563    | Singapore   | Undergraduate | Asia-Pacific Summer Research Exchange in Computer Science
+      Shared Salient Keywords: summer, exchange, undergraduate, summer exchange, ai
+5     | SCH_02   | 0.1942    | Germany     | Undergraduate | DAAD International CS & AI Summer Exchange Grant
+      Shared Salient Keywords: summer, summer exchange, exchange, undergraduate, ai
+
+[TEST CASE 3: COLD-START GRANT EVALUATION]
+Newly Announced Grant: Turing Post-Quantum AI & Deep Learning Immersion Exchange (0 Historical Ratings)
+Eligibility: Open to international undergraduate students in computer science, quantum information, and machine learning. Provides full stipend for an intensive 10-week summer research exchange laboratory placement exploring neural networks and quantum artificial intelligence.
+--------------------------------------------------------------------------------
+Matching Result against Target Student Profile:
+Query: "undergraduate computer science student seeking AI research summer exchange"
+Cosine Similarity Score : 0.2969
+Matching Salient Terms : exchange, summer, undergraduate, summer exchange, ai
+Status : SUCCESSFULLY MATCHED VIA NLP CONTENT-BASED FILTERING WITHOUT RATINGS.
+Conclusion : Cold-start problem completely bypassed through semantic TF-IDF embedding.
+================================================================================
