@@ -650,12 +650,10 @@ def generate_ratings(items_df, profiles):
         neut = set(profile["neutral_items"])
         neg = set(profile["negative_items"])
 
-        # We must select exactly 16 items for this user:
-        # e.g., 5-6 positive, 5-6 neutral, 4-5 negative
-        chosen_items = []
-        available_pos = [item for item in pos if item in all_items]
-        available_neut = [item for item in neut if item in all_items]
-        available_neg = [item for item in neg if item in all_items]
+        # Strictly order candidate lists using all_items to prevent set iteration nondeterminism
+        available_pos = [item for item in all_items if item in pos]
+        available_neut = [item for item in all_items if item in neut]
+        available_neg = [item for item in all_items if item in neg]
         remaining = [item for item in all_items if item not in pos and item not in neut and item not in neg]
 
         # Sample with deterministic seeds per user
@@ -775,6 +773,10 @@ def validate_dataset(items_df, ratings_df):
 
 def generate_and_save():
     """Generates and writes data/items.csv and data/ratings.csv."""
+    # Reset seed to guarantee deterministic generation on every call
+    random.seed(RANDOM_SEED)
+    np.random.seed(RANDOM_SEED)
+
     os.makedirs(DATA_DIR, exist_ok=True)
     scholarships = get_scholarships_data()
     items_df = pd.DataFrame(scholarships)
