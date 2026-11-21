@@ -1,0 +1,241 @@
+user_id,item_id,relevance_rating,student_note
+U01,SCH_01,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U01,SCH_05,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U01,SCH_40,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U01,SCH_03,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U01,SCH_26,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U01,SCH_02,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U01,SCH_30,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U01,SCH_08,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U01,SCH_06,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U01,SCH_19,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U01,SCH_09,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U01,SCH_23,2,Minimal relevance to my field of study; unlikely to submit an application.
+U01,SCH_32,1,Eligibility criteria do not fit my current academic status or degree level.
+U01,SCH_17,2,Eligibility criteria do not fit my current academic status or degree level.
+U01,SCH_35,2,Far outside my academic major and immediate research priorities.
+U01,SCH_28,2,Eligibility criteria do not fit my current academic status or degree level.
+U02,SCH_04,5,Strong institutional reputation and exceptional synergy with my current projects.
+U02,SCH_26,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U02,SCH_40,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U02,SCH_36,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U02,SCH_05,5,Strong institutional reputation and exceptional synergy with my current projects.
+U02,SCH_07,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U02,SCH_08,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U02,SCH_09,3,"Good program overall, but requires additional coursework to qualify competitively."
+U02,SCH_22,3,"Good program overall, but requires additional coursework to qualify competitively."
+U02,SCH_27,3,"Good program overall, but requires additional coursework to qualify competitively."
+U02,SCH_12,2,Far outside my academic major and immediate research priorities.
+U02,SCH_31,2,Minimal relevance to my field of study; unlikely to submit an application.
+U02,SCH_13,2,Eligibility criteria do not fit my current academic status or degree level.
+U02,SCH_16,2,Eligibility criteria do not fit my current academic status or degree level.
+U02,SCH_11,1,Far outside my academic major and immediate research priorities.
+U02,SCH_23,1,Far outside my academic major and immediate research priorities.
+U03,SCH_07,5,"Highly aligned with my curriculum, career ambitions, and academic background."
+U03,SCH_05,5,"Highly aligned with my curriculum, career ambitions, and academic background."
+U03,SCH_19,5,"Highly aligned with my curriculum, career ambitions, and academic background."
+U03,SCH_01,5,"Highly aligned with my curriculum, career ambitions, and academic background."
+U03,SCH_06,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U03,SCH_04,3,"Good program overall, but requires additional coursework to qualify competitively."
+U03,SCH_32,3,"Good program overall, but requires additional coursework to qualify competitively."
+U03,SCH_22,3,"Good program overall, but requires additional coursework to qualify competitively."
+U03,SCH_30,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U03,SCH_03,3,"Good program overall, but requires additional coursework to qualify competitively."
+U03,SCH_10,2,Eligibility criteria do not fit my current academic status or degree level.
+U03,SCH_16,2,Not aligned with my career trajectory or domain interests.
+U03,SCH_24,1,Minimal relevance to my field of study; unlikely to submit an application.
+U03,SCH_29,2,Minimal relevance to my field of study; unlikely to submit an application.
+U03,SCH_17,1,Not aligned with my career trajectory or domain interests.
+U03,SCH_40,1,Far outside my academic major and immediate research priorities.
+U04,SCH_09,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U04,SCH_08,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U04,SCH_02,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U04,SCH_26,4,"Highly aligned with my curriculum, career ambitions, and academic background."
+U04,SCH_36,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U04,SCH_07,3,"Good program overall, but requires additional coursework to qualify competitively."
+U04,SCH_22,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U04,SCH_01,3,"Good program overall, but requires additional coursework to qualify competitively."
+U04,SCH_23,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U04,SCH_03,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U04,SCH_04,2,Minimal relevance to my field of study; unlikely to submit an application.
+U04,SCH_10,2,Minimal relevance to my field of study; unlikely to submit an application.
+U04,SCH_21,1,Minimal relevance to my field of study; unlikely to submit an application.
+U04,SCH_37,2,Far outside my academic major and immediate research priorities.
+U04,SCH_33,1,Minimal relevance to my field of study; unlikely to submit an application.
+U04,SCH_19,1,Eligibility criteria do not fit my current academic status or degree level.
+U05,SCH_15,4,"Highly aligned with my curriculum, career ambitions, and academic background."
+U05,SCH_14,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U05,SCH_28,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U05,SCH_16,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U05,SCH_09,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U05,SCH_08,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U05,SCH_21,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U05,SCH_20,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U05,SCH_35,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U05,SCH_36,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U05,SCH_24,1,Not aligned with my career trajectory or domain interests.
+U05,SCH_40,1,Not aligned with my career trajectory or domain interests.
+U05,SCH_01,2,Minimal relevance to my field of study; unlikely to submit an application.
+U05,SCH_30,2,Far outside my academic major and immediate research priorities.
+U05,SCH_12,1,Minimal relevance to my field of study; unlikely to submit an application.
+U05,SCH_18,2,Eligibility criteria do not fit my current academic status or degree level.
+U06,SCH_12,4,"Highly aligned with my curriculum, career ambitions, and academic background."
+U06,SCH_11,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U06,SCH_13,5,Strong institutional reputation and exceptional synergy with my current projects.
+U06,SCH_32,4,Strong institutional reputation and exceptional synergy with my current projects.
+U06,SCH_25,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U06,SCH_27,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U06,SCH_01,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U06,SCH_10,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U06,SCH_08,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U06,SCH_30,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U06,SCH_33,2,Not aligned with my career trajectory or domain interests.
+U06,SCH_35,1,Not aligned with my career trajectory or domain interests.
+U06,SCH_16,2,Not aligned with my career trajectory or domain interests.
+U06,SCH_18,1,Eligibility criteria do not fit my current academic status or degree level.
+U06,SCH_03,2,Eligibility criteria do not fit my current academic status or degree level.
+U06,SCH_20,1,Eligibility criteria do not fit my current academic status or degree level.
+U07,SCH_10,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U07,SCH_16,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U07,SCH_40,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U07,SCH_18,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U07,SCH_17,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U07,SCH_31,4,"Highly aligned with my curriculum, career ambitions, and academic background."
+U07,SCH_22,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U07,SCH_13,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U07,SCH_33,3,"Good program overall, but requires additional coursework to qualify competitively."
+U07,SCH_21,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U07,SCH_11,1,Far outside my academic major and immediate research priorities.
+U07,SCH_25,1,Eligibility criteria do not fit my current academic status or degree level.
+U07,SCH_03,2,Not aligned with my career trajectory or domain interests.
+U07,SCH_30,1,Minimal relevance to my field of study; unlikely to submit an application.
+U07,SCH_14,2,Eligibility criteria do not fit my current academic status or degree level.
+U07,SCH_34,2,Not aligned with my career trajectory or domain interests.
+U08,SCH_02,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U08,SCH_01,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U08,SCH_03,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U08,SCH_26,4,Strong institutional reputation and exceptional synergy with my current projects.
+U08,SCH_40,5,Strong institutional reputation and exceptional synergy with my current projects.
+U08,SCH_36,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U08,SCH_07,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U08,SCH_08,3,"Good program overall, but requires additional coursework to qualify competitively."
+U08,SCH_22,3,"Good program overall, but requires additional coursework to qualify competitively."
+U08,SCH_06,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U08,SCH_30,3,"Good program overall, but requires additional coursework to qualify competitively."
+U08,SCH_33,2,Not aligned with my career trajectory or domain interests.
+U08,SCH_10,1,Minimal relevance to my field of study; unlikely to submit an application.
+U08,SCH_27,2,Far outside my academic major and immediate research priorities.
+U08,SCH_19,2,Far outside my academic major and immediate research priorities.
+U08,SCH_34,1,Far outside my academic major and immediate research priorities.
+U09,SCH_07,5,Excellent match for my research interests; funding and lab facilities are outstanding.
+U09,SCH_38,5,Strong institutional reputation and exceptional synergy with my current projects.
+U09,SCH_22,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U09,SCH_39,5,Excellent match for my research interests; funding and lab facilities are outstanding.
+U09,SCH_19,4,Strong institutional reputation and exceptional synergy with my current projects.
+U09,SCH_08,4,Strong institutional reputation and exceptional synergy with my current projects.
+U09,SCH_04,3,"Good program overall, but requires additional coursework to qualify competitively."
+U09,SCH_06,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U09,SCH_01,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U09,SCH_34,3,"Good program overall, but requires additional coursework to qualify competitively."
+U09,SCH_10,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U09,SCH_02,2,Minimal relevance to my field of study; unlikely to submit an application.
+U09,SCH_33,2,Eligibility criteria do not fit my current academic status or degree level.
+U09,SCH_18,1,Not aligned with my career trajectory or domain interests.
+U09,SCH_14,1,Far outside my academic major and immediate research priorities.
+U09,SCH_29,2,Eligibility criteria do not fit my current academic status or degree level.
+U10,SCH_29,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U10,SCH_23,5,"Highly aligned with my curriculum, career ambitions, and academic background."
+U10,SCH_06,4,Matches my exact profile for research exchange and hands-on laboratory experience.
+U10,SCH_27,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U10,SCH_08,4,"Highly aligned with my curriculum, career ambitions, and academic background."
+U10,SCH_36,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U10,SCH_01,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U10,SCH_03,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U10,SCH_09,3,"Good program overall, but requires additional coursework to qualify competitively."
+U10,SCH_34,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U10,SCH_38,1,Minimal relevance to my field of study; unlikely to submit an application.
+U10,SCH_24,2,Minimal relevance to my field of study; unlikely to submit an application.
+U10,SCH_20,1,Far outside my academic major and immediate research priorities.
+U10,SCH_31,1,Eligibility criteria do not fit my current academic status or degree level.
+U10,SCH_18,2,Far outside my academic major and immediate research priorities.
+U10,SCH_04,2,Far outside my academic major and immediate research priorities.
+U11,SCH_16,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U11,SCH_31,4,Strong institutional reputation and exceptional synergy with my current projects.
+U11,SCH_18,5,Strong institutional reputation and exceptional synergy with my current projects.
+U11,SCH_17,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U11,SCH_13,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U11,SCH_10,4,Strong institutional reputation and exceptional synergy with my current projects.
+U11,SCH_22,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U11,SCH_28,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U11,SCH_21,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U11,SCH_40,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U11,SCH_15,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U11,SCH_38,1,Far outside my academic major and immediate research priorities.
+U11,SCH_12,1,Not aligned with my career trajectory or domain interests.
+U11,SCH_03,2,Far outside my academic major and immediate research priorities.
+U11,SCH_39,2,Not aligned with my career trajectory or domain interests.
+U11,SCH_33,1,Far outside my academic major and immediate research priorities.
+U12,SCH_05,5,Strong institutional reputation and exceptional synergy with my current projects.
+U12,SCH_06,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U12,SCH_03,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U12,SCH_01,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U12,SCH_20,4,"Highly aligned with my curriculum, career ambitions, and academic background."
+U12,SCH_24,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U12,SCH_04,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U12,SCH_02,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U12,SCH_35,3,"Relevant technical domain, though partial mismatch in degree level or prerequisite scope."
+U12,SCH_36,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U12,SCH_18,2,Eligibility criteria do not fit my current academic status or degree level.
+U12,SCH_37,2,Eligibility criteria do not fit my current academic status or degree level.
+U12,SCH_13,2,Eligibility criteria do not fit my current academic status or degree level.
+U12,SCH_27,2,Not aligned with my career trajectory or domain interests.
+U12,SCH_23,1,Minimal relevance to my field of study; unlikely to submit an application.
+U12,SCH_31,1,Far outside my academic major and immediate research priorities.
+U13,SCH_25,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U13,SCH_32,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U13,SCH_13,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U13,SCH_12,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U13,SCH_11,5,"Highly aligned with my curriculum, career ambitions, and academic background."
+U13,SCH_40,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U13,SCH_21,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U13,SCH_18,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U13,SCH_16,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U13,SCH_20,3,"Good program overall, but requires additional coursework to qualify competitively."
+U13,SCH_37,2,Far outside my academic major and immediate research priorities.
+U13,SCH_06,2,Far outside my academic major and immediate research priorities.
+U13,SCH_23,2,Not aligned with my career trajectory or domain interests.
+U13,SCH_09,2,Not aligned with my career trajectory or domain interests.
+U13,SCH_14,1,Not aligned with my career trajectory or domain interests.
+U13,SCH_38,2,Eligibility criteria do not fit my current academic status or degree level.
+U14,SCH_14,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U14,SCH_28,4,Strong institutional reputation and exceptional synergy with my current projects.
+U14,SCH_15,4,Strong institutional reputation and exceptional synergy with my current projects.
+U14,SCH_16,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U14,SCH_09,5,Excellent match for my research interests; funding and lab facilities are outstanding.
+U14,SCH_22,3,"Good program overall, but requires additional coursework to qualify competitively."
+U14,SCH_18,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U14,SCH_21,3,"Good program overall, but requires additional coursework to qualify competitively."
+U14,SCH_36,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U14,SCH_10,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U14,SCH_03,1,Eligibility criteria do not fit my current academic status or degree level.
+U14,SCH_40,2,Far outside my academic major and immediate research priorities.
+U14,SCH_02,2,Not aligned with my career trajectory or domain interests.
+U14,SCH_08,1,Not aligned with my career trajectory or domain interests.
+U14,SCH_34,2,Not aligned with my career trajectory or domain interests.
+U14,SCH_23,2,Minimal relevance to my field of study; unlikely to submit an application.
+U15,SCH_26,4,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U15,SCH_24,5,Ideal opportunity for my degree level and domain specialization. Top recommendation.
+U15,SCH_20,5,Matches my exact profile for research exchange and hands-on laboratory experience.
+U15,SCH_33,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U15,SCH_40,5,Strong institutional reputation and exceptional synergy with my current projects.
+U15,SCH_37,4,Excellent match for my research interests; funding and lab facilities are outstanding.
+U15,SCH_15,3,"Good program overall, but requires additional coursework to qualify competitively."
+U15,SCH_35,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U15,SCH_01,3,"Good program overall, but requires additional coursework to qualify competitively."
+U15,SCH_22,3,"Interesting opportunity with solid potential, though slightly outside my core specialty."
+U15,SCH_04,3,"Decent alignment with my background, worth considering as a secondary alternative."
+U15,SCH_10,2,Far outside my academic major and immediate research priorities.
+U15,SCH_27,2,Far outside my academic major and immediate research priorities.
+U15,SCH_31,1,Eligibility criteria do not fit my current academic status or degree level.
+U15,SCH_05,2,Not aligned with my career trajectory or domain interests.
+U15,SCH_13,2,Far outside my academic major and immediate research priorities.
